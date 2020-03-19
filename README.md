@@ -4,8 +4,8 @@ Collection of papers on the related directions of sequence pair tasks
 
 
 
-made by:
-Peiyuan Gong (zzu)
-Hanlin Tang (bit)
-Tongfeng Guan (zzu)
-Shuai Ye (zzu)
+#### made by: <br>
+Peiyuan Gong (zzu) <br>
+Hanlin Tang (bit) <br>
+Tongfeng Guan (zzu)  <br>
+Shuai Ye (zzu) <br>
