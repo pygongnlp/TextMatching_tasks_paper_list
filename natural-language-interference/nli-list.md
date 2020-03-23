@@ -24,21 +24,21 @@
 
 ## 2016: 8
 
-###EMNLP 16:
+### EMNLP 16:
 
 [A Decomposable Attention Model for Natural Language Inference](https://arxiv.org/abs/1606.01933)
 
-###ACL 16:
+### ACL 16:
 
 [Addressing Limited Data for Textual Entailment Across Domains](https://arxiv.org/abs/1606.02638)
 
 [Natural language inference by tree-based convolution and heuristic matching](https://arxiv.org/abs/1512.08422)
 
-###NAACL 16:
+### NAACL 16:
 
 [Learning natural language inference with LSTM](https://arxiv.org/abs/1512.08849)
 
-###LREC 16:
+### LREC 16:
 
 [Corpora for Learning the Mutual Relationship between Semantic Relatedness and Textual Entailment](https://www.aclweb.org/anthology/L16-1539.pdf)
 
