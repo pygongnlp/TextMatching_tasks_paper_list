@@ -2,7 +2,7 @@
 
 ##2013: 2
 
-### ACL13: 
+###  ACL13: 
 
 [Building Japanese Textual Entailment Specialized Data Sets for Inference of Basic Sentence Relations](https://www.aclweb.org/anthology/P13-2049.pdf)
 
