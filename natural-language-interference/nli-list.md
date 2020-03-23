@@ -1,6 +1,6 @@
 # Natural Language Inference
 
-##2013: 2
+## 2013: 2
 
 ###  ACL13: 
 
@@ -18,27 +18,27 @@
 
 [Recognizing Textual Entailment Using Probabilistic Inference](https://www.aclweb.org/anthology/D15-1185.pdf)
 
-###CL 15:
+### CL 15:
 
 [Recognizing Textual Entailment: Models and Applications](https://www.morganclaypool.com/doi/abs/10.2200/s00509ed1v01y201305hlt023)
 
 ## 2016: 8
 
-###EMNLP 16:
+### EMNLP 16:
 
 [A Decomposable Attention Model for Natural Language Inference](https://arxiv.org/abs/1606.01933)
 
-###ACL 16:
+### ACL 16:
 
 [Addressing Limited Data for Textual Entailment Across Domains](https://arxiv.org/abs/1606.02638)
 
 [Natural language inference by tree-based convolution and heuristic matching](https://arxiv.org/abs/1512.08422)
 
-###NAACL 16:
+### NAACL 16:
 
 [Learning natural language inference with LSTM](https://arxiv.org/abs/1512.08849)
 
-###LREC 16:
+### LREC 16:
 
 [Corpora for Learning the Mutual Relationship between Semantic Relatedness and Textual Entailment](https://www.aclweb.org/anthology/L16-1539.pdf)
 
