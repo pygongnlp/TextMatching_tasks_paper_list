@@ -4,6 +4,8 @@ Collection of papers on the related directions of sequence pair tasks
 ## Contents:
 
 * [Natural Language Inference](./natural-language-interference/nli-list.md)
+* [Response Selection QA](./QA/QA-list.md)
+* [Image Text Matching](./image-text-matching/itm-list.md)
 
 ## Maintained by:
 
