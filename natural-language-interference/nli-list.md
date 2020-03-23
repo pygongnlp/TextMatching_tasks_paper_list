@@ -18,7 +18,7 @@
 
 [Recognizing Textual Entailment Using Probabilistic Inference](https://www.aclweb.org/anthology/D15-1185.pdf)
 
-###CL 15:
+### CL 15:
 
 [Recognizing Textual Entailment: Models and Applications](https://www.morganclaypool.com/doi/abs/10.2200/s00509ed1v01y201305hlt023)
 
