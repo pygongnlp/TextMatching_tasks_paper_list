@@ -12,7 +12,7 @@
 
 [Improving distributional semantic vectors through context selection and normalisation](https://www.aclweb.org/anthology/E14-1025.pdf)
 
-## 2015:
+## 2015: 3
 
 ### ACL 15:
 
@@ -20,7 +20,11 @@
 
 [Answer sequence learning with neural networks for answer selection in community question answering](https://arxiv.org/abs/1506.06490)
 
-## 2016:  5
+### AAAI 15:
+
+[Question/answer matching for CQA system via combining lexical and sequential information](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9536)
+
+## 2016:  6
 
 ### EMNLP 16:
 
@@ -32,17 +36,21 @@
 
 [Inner attention based recurrent neural networks for answer selection](https://www.aclweb.org/anthology/P16-1122.pdf)
 
+[Improved representation learning for question answer matching](https://www.aclweb.org/anthology/P16-1044.pdf)
+
 
 ### COLING 16:
 
 [FastHybrid: A Hybrid Model for Efficient Answer Selection](https://www.aclweb.org/anthology/C16-1224.pdf)
 
 [Hierarchical memory networks for answer selection on unknown words](https://arxiv.org/abs/1609.08843)
-## 2017: 4
+## 2017: 5
 
 ### AAAI 17:
 
 [Attentive interactive neural networks for answer selection in community question answering](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14611)
+
+[Word embedding based correlation model for question/answer matching](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14384)
 
 ### IJCAI 17:
 
@@ -57,7 +65,7 @@
 
 [Sequential matching network: A new architecture for multi-turn response selection in retrieval-based chatbots](https://arxiv.org/abs/1612.01627)
 
-## 2018: 18
+## 2018: 20
 
 ### AAAI 18:
 
@@ -79,8 +87,9 @@
 
 [Integrating question classification and deep learning for improved answer selection](https://www.aclweb.org/anthology/C18-1278.pdf)
 
-
 [Knowledge as A bridge: Improving cross-domain answer selection with external knowledge](https://www.aclweb.org/anthology/C18-1279.pdf)
+
+[One vs. many qa matching with both word-level and sentence-level attention network](https://www.aclweb.org/anthology/C18-1215.pdf)
 
 
 ### EMNLP 18:
@@ -91,6 +100,8 @@
 [Data Augmentation for Neural Online Chat Response Selection](https://arxiv.org/abs/1809.00428)
 
 [Semantic Linking in Convolutional Neural Networks for Answer Sentence Selection](https://www.aclweb.org/anthology/D18-1133.pdf)
+
+[Sentiment classification towards question-answering with hierarchical matching network](https://www.aclweb.org/anthology/D18-1401.pdf)
 
 
 #### Workshop:

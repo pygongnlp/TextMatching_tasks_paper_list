@@ -10,7 +10,19 @@
 
 [Recognizing Partial Textual Entailment](https://www.aclweb.org/anthology/P13-2080.pdf)
 
-## 2015: 3
+## 2014: 3
+
+### CICLing 14:
+
+[Annotation game for textual entailment evaluation](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_28)
+
+[Statistical relational learning to recognise textual entailment](https://link.springer.com/chapter/10.1007/978-3-642-54906-9_27)
+
+### IJCNN 14:
+
+[Recognizing cross-lingual textual entailment with co-training using similarity and difference views](https://ieeexplore.ieee.org/abstract/document/6889713/)
+
+## 2015: 6
 
 ### EMNLP 15:
 
@@ -21,6 +33,18 @@
 ### CL 15:
 
 [Recognizing Textual Entailment: Models and Applications](https://www.morganclaypool.com/doi/abs/10.2200/s00509ed1v01y201305hlt023)
+
+### CICLing 15:
+
+[Textual entailment using different similarity metrics](https://link.springer.com/chapter/10.1007/978-3-319-18111-0_37)
+
+### IJCNN 15:
+
+[Integrating word embeddings and traditional NLP features to measure textual entailment and semantic relatedness of sentence pairs](https://ieeexplore.ieee.org/abstract/document/7280462/)
+
+### NAACL 15:
+
+[Recognizing textual entailment using dependency analysis and machine learning](https://www.aclweb.org/anthology/N15-2020.pdf)
 
 ## 2016: 8
 
@@ -50,7 +74,7 @@
 
 [Textual entailment with structured attentions and composition](https://arxiv.org/abs/1701.01126)
 
-## 2017: 5
+## 2017: 6
 
 ### ACL 17:
 
@@ -68,7 +92,11 @@
 
 [Visual denotations for recognizing textual entailment](https://www.aclweb.org/anthology/D17-1305.pdf)
 
-## 2018: 26
+### IJCNN 17:
+
+[Can we explain natural language inference decisions taken with neural networks? inference rules in distributed representations](https://ieeexplore.ieee.org/abstract/document/7966319/)
+
+## 2018: 27
 
 ### ACL 18: 5
 
@@ -141,6 +169,10 @@
 
 [Natural language inference over interaction space](https://arxiv.org/abs/1709.04348)
 
+### ICDM 18:
+
+[Image-enhanced multi-level sentence representation net for natural language inference](https://ieeexplore.ieee.org/abstract/document/8594899/)
+
 ## 2019: 18
 
 ### EMNLP 19:
@@ -193,3 +225,14 @@
 
 [Deep Learning for Natural Language Inference](https://nlitutorial.github.io/nli_tutorial.pdf)
 
+### TVCG 19:
+
+[Nlize: A perturbation-driven visual interrogation tool for analyzing and interpreting natural language inference models](https://ieeexplore.ieee.org/abstract/document/8454904/)
+
+### IJCNN 19:
+
+[Knowledge Adaptive Neural Network for Natural Language Inference](https://ieeexplore.ieee.org/abstract/document/8851884/)
+
+### PAKDD 19:
+
+[Context-aware dual-attention network for natural language inference](https://link.springer.com/chapter/10.1007/978-3-030-16142-2_15)
