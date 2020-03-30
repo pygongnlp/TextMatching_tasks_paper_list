@@ -11,7 +11,7 @@ The organizer is a 2016 undergraduate from Zhengzhou University, and his instruc
 ## Contents:
 
 * [Natural Language Inference](./natural-language-interference/nli-list.md)
-* [Answer Selection/Response Selection](./QA/QA-list.md)
+* [Answer/Response Selection](./QA/QA-list.md)
 * [Image Text Matching](./image-text-matching/itm-list.md)
 * [Text Matching](./text-matching/tm-list.md)
 
