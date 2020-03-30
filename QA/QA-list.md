@@ -44,7 +44,7 @@
 [FastHybrid: A Hybrid Model for Efficient Answer Selection](https://www.aclweb.org/anthology/C16-1224.pdf)
 
 [Hierarchical memory networks for answer selection on unknown words](https://arxiv.org/abs/1609.08843)
-## 2017: 5
+## 2017: 6
 
 ### AAAI 17:
 
@@ -65,7 +65,11 @@
 
 [Sequential matching network: A new architecture for multi-turn response selection in retrieval-based chatbots](https://arxiv.org/abs/1612.01627)
 
-## 2018: 20
+### TKDE 17:
+
+[Answering natural language questions by subgraph matching over knowledge graphs](https://ieeexplore.ieee.org/abstract/document/8085196/)
+
+## 2018: 22
 
 ### AAAI 18:
 
@@ -126,11 +130,18 @@
 
 [Question condensing networks for answer selection in community question answering](https://www.aclweb.org/anthology/P18-1162.pdf)
 
-
 [Tackling Adversarial Examples in QA via Answer Sentence Selection](https://www.aclweb.org/anthology/W18-2604.pdf)
 
+### SIGIR 18：
 
-## 2019: 19
+[Multihop attention networks for question answer matching](https://dl.acm.org/doi/abs/10.1145/3209978.3210009)
+
+### ACM MM 18:
+
+[Attentive interactive convolutional matching for community question answering in social multimedia](https://dl.acm.org/doi/abs/10.1145/3240508.3240626)
+
+
+## 2019: 29
 
 ### EMNLP 19:
 
@@ -154,6 +165,8 @@
 ### IJCAI 19:
 
 [A document-grounded matching network for response selection in retrieval-based chatbots](https://arxiv.org/abs/1906.04362)
+
+[Generating multiple diverse responses with multi-mapping and posterior mapping selection](https://arxiv.org/abs/1906.01781)
 
 ### AAAI 19:
 
@@ -179,9 +192,42 @@
 ### CIKM 19:
 
 [Interactive matching network for multi-turn response selection in retrieval-based chatbots](https://dl.acm.org/doi/abs/10.1145/3357384.3358140)
+
+[Interactive matching network for multi-turn response selection in retrieval-based chatbots](https://dl.acm.org/doi/abs/10.1145/3357384.3358140)
+
+[Multi-Turn Response Selection in Retrieval-Based Chatbots with Iterated Attentive Convolution Matching Network](https://dl.acm.org/doi/abs/10.1145/3357384.3357928)
+
 ### CONLL 19:
 [Learning Analogy-Preserving Sentence Embeddings for Answer Selection](https://arxiv.org/abs/1910.05315)
 [TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1909.10666)
+
+### NAACL 19:
+
+[FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase](https://www.aclweb.org/anthology/N19-1028.pdf)
+
+### ACM MM 19:
+
+[Hierarchical Graph Semantic Pooling Network for Multi-modal Community Question Answer Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350966)
+
+### BIBM 19:
+
+[Knowledge Abstraction Matching for Medical Question Answering](http://zhoujingbo.github.io/paper/knowledge2019chen_bibm.pdf)
+
+### ICDM 19:
+
+[Multi-hop Knowledge Base Question Answering with an Iterative Sequence Matching Model](https://ieeexplore.ieee.org/abstract/document/8970943/)
+
+### TALLP 19:
+
+[Response selection and automatic message-response expansion in retrieval-based QA systems using semantic dependency pair model](https://dl.acm.org/doi/abs/10.1145/3229184)
+
+### ICASSP 19:
+
+[Sequential Matching Model for End-to-end Multi-turn Response Selection](https://ieeexplore.ieee.org/abstract/document/8682538/)
+
+[Deep Hybrid Networks Based Response Selection for Multi-turn Dialogue Systems](https://ieeexplore.ieee.org/abstract/document/8683769/)
+
 ## 2020: 1
 ### TASLP 2020:
 [Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://ieeexplore.ieee.org/abstract/document/8910440/)
+

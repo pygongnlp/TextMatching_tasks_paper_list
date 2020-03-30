@@ -74,7 +74,7 @@
 
 [Textual entailment with structured attentions and composition](https://arxiv.org/abs/1701.01126)
 
-## 2017: 6
+## 2017: 8
 
 ### ACL 17:
 
@@ -92,11 +92,19 @@
 
 [Visual denotations for recognizing textual entailment](https://www.aclweb.org/anthology/D17-1305.pdf)
 
+### DASFAA 17:
+
+[Max-cosine matching based neural models for recognizing textual entailment](https://link.springer.com/chapter/10.1007/978-3-319-55753-3_19)
+
+### CICLing 17:
+
+[Textual Entailment Using Machine Translation Evaluation Metrics](https://link.springer.com/chapter/10.1007/978-3-319-77113-7_25)
+
 ### IJCNN 17:
 
 [Can we explain natural language inference decisions taken with neural networks? inference rules in distributed representations](https://ieeexplore.ieee.org/abstract/document/7966319/)
 
-## 2018: 27
+## 2018: 29
 
 ### ACL 18: 5
 
@@ -173,7 +181,15 @@
 
 [Image-enhanced multi-level sentence representation net for natural language inference](https://ieeexplore.ieee.org/abstract/document/8594899/)
 
-## 2019: 18
+### AAAI 18:
+
+[Scitail: A textual entailment dataset from science question answering](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17368)
+
+### DASFAA 18:
+
+[Recognizing textual entailment with attentive reading and writing operations](https://link.springer.com/chapter/10.1007/978-3-319-91452-7_54)
+
+## 2019: 23
 
 ### EMNLP 19:
 
@@ -207,6 +223,8 @@
 
 [SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference](https://arxiv.org/abs/1906.01393)
 
+[Multimodal Logical Inference System for Visual-Textual Entailment](https://arxiv.org/abs/1906.03952)
+
 #### Workshop:
 
 [Explaining Simple Natural Language Inference ](https://www.aclweb.org/anthology/W19-4016)
@@ -236,3 +254,7 @@
 ### PAKDD 19:
 
 [Context-aware dual-attention network for natural language inference](https://link.springer.com/chapter/10.1007/978-3-030-16142-2_15)
+
+### CIKM 19
+
+[Knowledge-aware Textual Entailment with Graph Attention Network](https://dl.acm.org/doi/abs/10.1145/3357384.3358071)

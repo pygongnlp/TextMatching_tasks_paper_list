@@ -12,6 +12,12 @@
 
 [Text matching as image recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/11895)
 
+## 2017: 1
+
+### ICCV 17:
+
+[Identity-aware textual-visual matching with latent co-attention](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Identity-Aware_Textual-Visual_Matching_ICCV_2017_paper.html)
+
 ## 2018: 
 
 ### TIP 18:

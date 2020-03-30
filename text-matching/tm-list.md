@@ -74,7 +74,7 @@
 
 [Syntax-based deep matching of short texts](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/10769)
 
-## 2016: 12
+## 2016: 13
 
 ### COLING 16:
 
@@ -110,7 +110,11 @@
 
 [Text matching as image recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/11895)
 
-## 2017: 10
+### CIKM 16:
+
+[aNMM: Ranking short answer texts with attention-based neural matching model](https://dl.acm.org/doi/abs/10.1145/2983323.2983818)
+
+## 2017: 12
 
 ### ICLR 17:
 
@@ -145,6 +149,14 @@
 ### ACL 17:
 
 [TextFlow: A text similarity measure based on continuous sequences](https://www.aclweb.org/anthology/P17-1071.pdf)
+
+### CICLing 17:
+
+[Matching, re-ranking and scoring: Learning textual similarity by incorporating dependency graph alignment and coverage features](https://link.springer.com/chapter/10.1007/978-3-319-77113-7_30)
+
+### TIS 17:
+
+[Processing Long Queries Against Short Text: Top-*k* Advertisement Matching in News Stream Applications](https://dl.acm.org/doi/abs/10.1145/3052772)
 
 ## 2018: 26
 
@@ -222,7 +234,15 @@
 
 [Learning semantic similarity in a continuous space](http://papers.nips.cc/paper/7377-learning-semantic-similarity-in-a-continuous-space)
 
-### 2019:  22
+### KDD 18:
+
+[Mix: Multi-channel information crossing for text matching](https://dl.acm.org/doi/abs/10.1145/3219819.3219928)
+
+### CIKM 18:
+
+[Mix'n Match: Integrating Text Matching and Product Substitutability within Product Search](https://dl.acm.org/doi/abs/10.1145/3269206.3271668)
+
+### 2019:  28
 
 ### ACL 19:
 
@@ -282,3 +302,22 @@
 
 [Dual-view variational autoencoders for semi-supervised text matching](http://mashuai.buaa.edu.cn/pubs/ijcai2019.pdf)
 
+### WWW 19:
+
+[A Multimodal Text Matching Model for Obfuscated Language Identification in Adversarial Communication?](https://dl.acm.org/doi/abs/10.1145/3308558.3313410)
+
+[Semantic text matching for long-form documents](https://dl.acm.org/doi/abs/10.1145/3308558.3313707)
+
+### WSDM 19:
+
+[Learning to selectively transfer: Reinforced transfer learning for deep text matching](https://dl.acm.org/doi/abs/10.1145/3289600.3290978)
+
+### SIGIR 19:
+
+[MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching](https://dl.acm.org/doi/abs/10.1145/3331184.3331403)
+
+[Multi-Level Matching Networks for Text Matching](https://dl.acm.org/doi/abs/10.1145/3331184.3331276)
+
+### IJCNN 19:
+
+[Multi-Level Compare-Aggregate Model for Text Matching](https://ieeexplore.ieee.org/abstract/document/8852062/)
