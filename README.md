@@ -6,7 +6,7 @@ Here is the first version of the project. The main goal is to organize papers fo
 
 The focus of our future work will be mainly organized in a more fine-grained direction, real-time update of the innovation and application of matching methods, code reproduction work for important papers, etc.
 
-The organizer is a 2016 undergraduate from Zhengzhou University, and his instructor during the undergraduate period was [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm). Currently studying for a master's degree in Beijing Institute of Technology's natural language processing team, and the instructor is [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm). If anyone wants to join us to study in the field of text matching or to give valuable suggestions, please send a message to gongpeiyuan1@163.com,  we look forward to your participation or guidance.
+The organizer is a 2016 undergraduate from Zhengzhou University, and his instructor during the undergraduate period was [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm). Currently studying for a master's degree in Beijing Institute of Technology's natural language processing team, and the instructor is [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm). Thanks also to Hanlin Tang, a PhD in Beijing Institute of Technology, mainly for nlp in software engineer, has done a lot of work in project organization. Other contributors are as follows. If anyone wants to join us to study in the field of text matching or to give valuable suggestions, please send a message to gongpeiyuan1@163.com,  we look forward to your participation or guidance.
 
 ## Contents:
 
