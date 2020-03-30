@@ -6,11 +6,11 @@
 
 [Deep correlation for matching images and text](http://openaccess.thecvf.com/content_cvpr_2015/html/Yan_Deep_Correlation_for_2015_CVPR_paper.html)
 
-## 2016: 1
+## 2016: 
 
 ### AAAI 16:
 
-[Text matching as image recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/11895)
+
 
 ## 2017: 1
 
